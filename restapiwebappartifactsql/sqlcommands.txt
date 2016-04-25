@@ -1,0 +1,7 @@
+show databses;
+use app;
+show tables;
+select * from users;
+alter table users drop column JOIN_DATE;
+ALTER TABLE users CHANGE name username char(255);
+delete from users where id=6;

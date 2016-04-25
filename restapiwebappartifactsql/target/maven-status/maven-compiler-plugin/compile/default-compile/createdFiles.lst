@@ -1,0 +1,3 @@
+com\mydomain\service\HibernateUtil.class
+com\mydomain\service\Users.class
+com\mydomain\service\UserService.class
